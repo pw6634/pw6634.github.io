@@ -1,5 +1,4 @@
 # Basic Page 
-theme: midnight 
 <br/>
 Name: Peter Wu
 Class: SWEN 101 Software Engineering Freshman Seminar
@@ -10,7 +9,7 @@ My favorite food:
 <br/>
 <img src="https://christieathome.com/wp-content/uploads/2020/03/Chinese-Chicken-Fried-Rice-14.jpg" alt="Fried Rice" width="500" height="600"> 
 <br/>
-Click <a href="https://www.se.rit.edu/~swen-101/00/index.html">here to go to the RIT SE Website Link</a> to go to the RIT SE Website Link or click the link here: https://www.se.rit.edu/~swen-101/00/index.html
+Click <a href="https://www.se.rit.edu/~swen-101/00/index.html">here</a> to go to the RIT SE Website Lin or click the link here: https://www.se.rit.edu/~swen-101/00/index.html
 <br/>
 Software Engineering and SWEN 101 is awesome :)
 <ul>
