@@ -15,7 +15,7 @@ Click <a href="https://www.se.rit.edu/~swen-101/00/index.html">here</a> to go to
 Software Engineering and SWEN 101 is awesome :)
 <ul>
   <li>Software Engineering: I love how through software we are able to turn dreams into reality</li>
-  <li>Software Engineering: I am excited about solving problems, being creative and working alongside others to create awesome ideas and cool projects and being able to bring those ideas into life</lI.
+  <li>Software Engineering: I am excited about solving problems, being creative and working alongside others to create awesome ideas and cool projects and being able to bring those ideas into life</li>
   <li>SWEN 101: I am looking forward to being able to gain a brief understanding into the world of software engineering</li>
   <li>SWEN 101: I am very happy to be able to work alongside my peers to be able to create a project!</li>
   <li>SWEN 101: I hope to be able to learn about the ethics in regard to software engineering and the opporuntities that exist in the world along with being able to have fun!</li>
