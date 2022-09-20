@@ -1,12 +1,12 @@
 # pw6634.github.io
-a <br>
+<br/>
 Class: 
-a <br>
+<br/>
 Bio: 
-a <br>
+<br/>
 Photograph:
-a <br>
+<br/>
 RIT SE Website Link: 
-a <br>
+<br/>
 Bullet Points about what I am most exticed for?
-a <br>
+<br/>
