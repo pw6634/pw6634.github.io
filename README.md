@@ -1,6 +1,7 @@
 # Basic Page 
 <br/>
 Name: Peter Wu
+<br/>
 Class: SWEN 101 Software Engineering Freshman Seminar
 <br/>
 Bio: Hello everyone, my name is Peter Wu. I am current first year at Rochester Institue of Technology majoring in software engineering. I am originally from New York City and I attended Midwood High School. During my free time, I like to do photography and also go running. Along with that, I really love listening to music specifically pop and kpop. 
