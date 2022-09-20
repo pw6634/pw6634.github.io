@@ -1,4 +1,5 @@
 # Basic Page 
+theme: midnight 
 <br/>
 Name: Peter Wu
 Class: SWEN 101 Software Engineering Freshman Seminar
